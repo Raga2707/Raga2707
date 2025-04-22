@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Ragamalya!
-Software Developer | Java |Spring Boot | Quarkus | Microservices
+Software Developer | Java | Spring Boot | Quarkus | Microservices
 
 💻 2.2+ years of experience building scalable, high-performance web applications  
 🛠️ Specializing in **Java**, **Spring Boot**, **Quarkus**, and **ReactJS**  
