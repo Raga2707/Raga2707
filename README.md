@@ -1,17 +1,21 @@
 ### 👋 Hi there, I'm Ragamalya!
+Software Developer | Java |Spring Boot | Quarkus | Microservices
 
-<!--
-**Raga2707/Raga2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 2.2+ years of experience building scalable, high-performance web applications  
+🛠️ Specializing in **Java**, **Spring Boot**, **Quarkus**, and **ReactJS**  
+🌐 Proficient in designing REST APIs, integrating microservices, and database optimization
 
-Here are some ideas to get you started:
+🚀 Hands-on with:
+- **Microservices Architecture** and **Event-Driven Systems** using **Kafka**
+- **SQL & NoSQL Databases**: MySQL, PostgreSQL, MongoDB
+- **Containerization & DevOps**: Docker, Git, Maven, basic CI/CD workflows
+- **Unit Testing** using JUnit and Mockito
+- **Agile development**, sprint planning, and cross-functional collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Real-time projects across **E-Commerce**, **Banking**, and **Monitoring & Analytics** domains
+🔍 Good understanding of **role-based access**, **observability**, and **data mesh architecture**  
+⚙️ Learning and interested in **OpenShift**, **Kubernetes**, and **cloud-native CI/CD**
+🌱 Currently exploring: System Design, CI/CD, and Open Source contributions
 
+🌟 Passionate about writing clean, maintainable code and solving real-world problems 
+🤝 **Let’s Connect, Collaborate, and build something impactful!**
